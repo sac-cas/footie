@@ -4,9 +4,11 @@
 
 * https://m.youtube.com/watch?v=wW5uI3NjDlo
 
-## Dehnen
+## Dehnen/Mobility
 
 * https://youtu.be/P_CgGFnOnQU (movement preps)
+* https://youtu.be/vkUYSDhZMYc (Knieentlastung)
+* https://youtu.be/CSUwcLZ_PrM (Sprunggelenk)
 
 
 ## Kraftübungen
@@ -23,4 +25,9 @@
 
 
 
+## Warmup
+
+### Torwart 
+
+* https://youtu.be/3GMVlmNsiOM
 
